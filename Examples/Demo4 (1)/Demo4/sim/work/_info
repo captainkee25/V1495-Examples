@@ -1,0 +1,220 @@
+m255
+K3
+13
+cModel Technology
+dE:\WORK\V1495_Samples\Demo2\sim
+Pcomponents
+Z0 DPx4 ieee 15 std_logic_arith 0 22 GJbAT?7@hRQU9IQ702DT]2
+Z1 DPx4 ieee 14 std_logic_1164 0 22 GH1=`jDDBJ=`LM;:Ak`kf2
+Z2 w1279093036
+Z3 dE:\WORK\V1495\V1495_Demos\Demo4\sim
+8E:/WORK/V1495/V1495_Demos/Demo4/src/components.vhd
+FE:/WORK/V1495/V1495_Demos/Demo4/src/components.vhd
+l0
+L20
+V5>NaPWg8zJaZkN6B0Em761
+Z4 OP;C;6.5d;42
+32
+Z5 Mx2 4 ieee 14 std_logic_1164
+Z6 Mx1 4 ieee 15 std_logic_arith
+Z7 o-work work -2002 -explicit
+Z8 tExplicit 1
+!s100 IZKB62aRbMlLdI19HLEoA1
+Efpemulator
+Z9 w1280153815
+Z10 DPx4 ieee 18 std_logic_unsigned 0 22 hEMVMlaNCR^<OOoVNV;m90
+Z11 DPx4 ieee 15 std_logic_arith 0 22 GJbAT?7@hRQU9IQ702DT]2
+R1
+R3
+Z12 8E:/WORK/V1495/V1495_Demos/Demo4/sim/src_tb/fpemulator.vhd
+Z13 FE:/WORK/V1495/V1495_Demos/Demo4/sim/src_tb/fpemulator.vhd
+l0
+L23
+VXe0:6Cm[oK0a?link0A8@2
+R4
+32
+R7
+R8
+!s100 je95;<8EXzl9A5P?oGT332
+Abehav
+R10
+R11
+R1
+DEx4 work 10 fpemulator 0 22 Xe0:6Cm[oK0a?link0A8@2
+l41
+L34
+VI:UCFhz`F9:P=l2CJn34;1
+R4
+32
+Z14 Mx3 4 ieee 14 std_logic_1164
+Z15 Mx2 4 ieee 15 std_logic_arith
+Z16 Mx1 4 ieee 18 std_logic_unsigned
+R7
+R8
+!s100 1e[nZcZ616hD@mX6Kc`QA2
+Egdgen
+Z17 w1280153531
+R10
+R11
+R1
+R3
+Z18 8E:/WORK/V1495/V1495_Demos/Demo4/src/gdgen.vhd
+Z19 FE:/WORK/V1495/V1495_Demos/Demo4/src/gdgen.vhd
+l0
+L27
+Vk?bMn<N;]VIKjh2FYO@;R1
+R4
+32
+R7
+R8
+!s100 ]PI@CHbMnDmij_e:aNL=J2
+Artl
+R10
+R11
+R1
+DEx4 work 5 gdgen 0 22 k?bMn<N;]VIKjh2FYO@;R1
+l80
+L48
+V:?5l8j=Jj59WWHS69g]0K3
+R4
+32
+R14
+R15
+R16
+R7
+R8
+!s100 NI>XkS[7SjeY=;[LAe[Em2
+Elb_int
+Z20 w1280153033
+R10
+R11
+R1
+R3
+Z21 8E:/WORK/V1495/V1495_Demos/Demo4/src/lb_int.vhd
+Z22 FE:/WORK/V1495/V1495_Demos/Demo4/src/lb_int.vhd
+l0
+L27
+VP59EDME2KJS?9dBV6okZl0
+R4
+32
+R7
+R8
+!s100 Qn[B6d7TQMUQWT^Dbgbhb3
+Artl
+R10
+R11
+R1
+DEx4 work 6 lb_int 0 22 P59EDME2KJS?9dBV6okZl0
+l94
+L60
+VBlOGCU`QE^bl^>c<_N`3Y0
+!s100 FXzc_n]BY39dP9iM3n^0m0
+R4
+32
+R14
+R15
+R16
+R7
+R8
+Elbemulator
+Z23 w1271155516
+R10
+R11
+R1
+R3
+Z24 8E:/WORK/V1495/V1495_Demos/Demo4/sim/src_tb/lbemulator.vhd
+Z25 FE:/WORK/V1495/V1495_Demos/Demo4/sim/src_tb/lbemulator.vhd
+l0
+L23
+V9I1^5RJKe]>3agUTaVXF;3
+R4
+32
+R7
+R8
+!s100 fD8h1JNF[WRj:BPUhN[nl2
+Abehav
+R10
+R11
+R1
+DEx4 work 10 lbemulator 0 22 9I1^5RJKe]>3agUTaVXF;3
+l50
+L37
+VHmF`jbELB0MZAV:>QoPo32
+R4
+32
+R14
+R15
+R16
+R7
+R8
+!s100 ;8d09j>VKVzLBK?Q`0]gM2
+Etestbench_demo4
+Z26 w1280152438
+Z27 DPx4 work 10 components 0 22 5>NaPWg8zJaZkN6B0Em761
+R10
+R11
+R1
+R3
+Z28 8E:/WORK/V1495/V1495_Demos/Demo4/sim/src_tb/Testbench_Demo4.vhd
+Z29 FE:/WORK/V1495/V1495_Demos/Demo4/sim/src_tb/Testbench_Demo4.vhd
+l0
+L25
+Vi:NgF<l1BFQFTI69cJagj0
+R4
+32
+R7
+R8
+!s100 Xz6Q[BIGF;`e=U07LT]Cf1
+Abhv
+R27
+R10
+R11
+R1
+DEx4 work 15 testbench_demo4 0 22 i:NgF<l1BFQFTI69cJagj0
+l115
+L29
+VSA<<<z9N>fAECmEf<3HXO3
+R4
+32
+Z30 Mx4 4 ieee 14 std_logic_1164
+Z31 Mx3 4 ieee 15 std_logic_arith
+Z32 Mx2 4 ieee 18 std_logic_unsigned
+Z33 Mx1 4 work 10 components
+R7
+R8
+!s100 8Ac4WQ?CR8Q79b9l?lDNK3
+Ev1495_demo4
+R2
+R27
+R10
+R11
+R1
+R3
+Z34 8E:/WORK/V1495/V1495_Demos/Demo4/src/V1495_Demo4.vhd
+Z35 FE:/WORK/V1495/V1495_Demos/Demo4/src/V1495_Demo4.vhd
+l0
+L26
+VFoeBg55iTVW<LPY7KbZgR0
+!s100 VXck>dQDZF5[C2@lA271>3
+R4
+32
+R7
+R8
+Artl
+R27
+R10
+R11
+R1
+Z36 DEx4 work 11 v1495_demo4 0 22 FoeBg55iTVW<LPY7KbZgR0
+l120
+L92
+Z37 V_Qb6Nf;i3hO[z2[@0aSg`2
+Z38 !s100 CNd`iP2ica@U9=n:S_MIC1
+R4
+32
+R30
+R31
+R32
+R33
+R7
+R8

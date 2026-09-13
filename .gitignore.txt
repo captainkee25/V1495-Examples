@@ -1,0 +1,47 @@
+# ---- Quartus compiled outputs (regenerate from source, don't track) ----
+*.rbf
+*.sof
+*.pof
+*.jam
+*.jbc
+*.svf
+*.ekp
+
+# ---- Quartus working/incremental compilation folders ----
+db/
+incremental_db/
+greybox_tmp/
+
+# ---- Quartus reports and logs (regenerated every compile) ----
+*.rpt
+*.summary
+*.smsg
+*.done
+*.qws
+*.pin
+*.sopcinfo
+*.qsys.report
+
+# ---- ModelSim / simulation junk, if you ever add sim ----
+*.vcd
+*.wlf
+transcript
+simulation/
+
+# ---- PLL/megafunction wizard byproducts (keep .vhd + .qip, drop the rest) ----
+*_bb.v
+*_inst.vhd
+*.ppf
+
+# ---- OS / editor junk ----
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# ---- Keep these (don't ignore) ----
+!*.qpf
+!*.qsf
+!*.sdc
+!*.vhd
+!*.qip
